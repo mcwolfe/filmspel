@@ -120,6 +120,22 @@
                 "file": "Intro.md"
               }
             }
+          },
+          {
+            "id": "163f6415b401548c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6615adf99f6abb6",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ]
       }
